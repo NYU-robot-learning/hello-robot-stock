@@ -1,2 +1,7 @@
 # HelloRobot_Stock
-Various Stocks for Hello Robot Stretch
+## Phone Holder
+## Robot Clamp
+## Grabber Clamp
+## Grabber Ends
+## Putting Together the Phone Holder and Clamps
+## Full Picture
