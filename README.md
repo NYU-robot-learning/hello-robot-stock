@@ -7,6 +7,8 @@ It uses the Mount Phone Clamp, and the print files, print instructions, and inst
 
 For the hardware, instead of a printed bolt and nut, a M5 35mm bolt and a M5 nut for better durability and performance. 
 
+The attachment joint/mechanism is taken from this system, but it is important to note that within the system the joint is inspired from a gopro mount joint, so it will work with a standard gopro mount as well. There is more on this in the [Attachment Joint/Mechanism](#attachment-jointmechanism) section. 
+
 <!-- [PhoneClamp_body1.stl](PhoneHolder/PhoneClamp_body1.stl)
 
 [PhoneClamp_body2.stl](PhoneHolder/PhoneClamp_body2.stl)
