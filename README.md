@@ -5,7 +5,7 @@
 
 It uses the Mount Phone Clamp, and the print files, print instructions, and instructions for assembly are all on the linked page. The files are also provided in the folder [PhoneHolder](PhoneHolder/)
 
-For the hardware, instead of a printed bolt and nut a M5 35mm bolt and a M5 nut for better durability and performance. 
+For the hardware, instead of a printed bolt and nut, a M5 35mm bolt and a M5 nut for better durability and performance. 
 
 <!-- [PhoneClamp_body1.stl](PhoneHolder/PhoneClamp_body1.stl)
 
