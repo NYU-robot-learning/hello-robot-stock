@@ -39,7 +39,7 @@ The attachment joint/mechanism is taken from this system, but it is important to
 3. Take the robot clamp components 1 and 2 ([robotClamp.stl](RobotClamp/robotClamp.stl) and [robotClamp_insert.stl](RobotClamp/robotClamp_insert.stl)), add super glue to the underpart of component 1 in which component 2 can be inserted into. 
 4. Press component 2 into component 1 where the glue has been applied, such that component 2 is centered and equal amounts stick out from the clamp. Hold down for at least 15 sec. (Note that the glue takes around a day to fully set)
 5. Insert nut into slot as shown in image
-![](img/insert_robotclamp.png)
+<img src="img/insert_robotclamp.png"  width="55%">
 6. Insert screw/bolt into hole, thread through the nut that was inserted into clamp at step 5, and once the end is visible, thread the silver end pad([Robot clamp component 3](RobotClamp/robotClamp_pad.stl)) onto the end of the screw. 
 
 
