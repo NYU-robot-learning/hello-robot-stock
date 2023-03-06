@@ -1,0 +1,31 @@
+Hardware by Part,,,,,,
+Part,Type,Head,Size,Len (mm),Quantity,Link
+Robot Clamp,Screw,Socket,M5,20,2,https://www.mcmaster.com/91290A242
+Robot Clamp,Nut,,M5,,2,https://www.mcmaster.com/90592A095/
+Grabber Clamp,Screw,Socket,M5,10,2,https://www.mcmaster.com/91290A224/
+Grabber Clamp,Screw,Socket,M5,12,4,https://www.mcmaster.com/91290A228
+Grabber Clamp,Screw,Socket,M5,20,1,https://www.mcmaster.com/91290A242
+Grabber Clamp,Nut,,M5,,5,https://www.mcmaster.com/90592A095/
+Phone Holder,Screw,Socket,M5,40,1,https://www.mcmaster.com/91290A258/
+Phone Holder,Nut,,M5,,1,https://www.mcmaster.com/90592A095/
+Grabber Ends,Screw,Socket,M3,8,2,https://www.mcmaster.com/91290A113
+Grabber Ends,Washer,,M3,,2,https://www.mcmaster.com/93475A210
+Grabber Ends,Nut,,M3,,2,https://www.mcmaster.com/90592A085
+,,,,,,
+,,,,,,
+"Full Build (2 phone holders, 1 robot clamp, 1 grabber clamp, 2 sets of grabber ends",,,,,,
+Type,Head,Size,Len (mm),Quantity,Link,
+Screw,Socket,M5,20,3,https://www.mcmaster.com/91290A242,
+Nut,,M5,,8,https://www.mcmaster.com/90592A095/,
+Screw,Socket,M5,10,2,https://www.mcmaster.com/91290A224/,
+Screw,Socket,M5,12,4,https://www.mcmaster.com/91290A228,
+Screw,Socket,M5,40,1,https://www.mcmaster.com/91290A258/,
+Screw,Socket,M3,8,2,https://www.mcmaster.com/91290A113,
+Washer,,M3,,2,https://www.mcmaster.com/93475A210,
+Nut,,M3,,2,https://www.mcmaster.com/90592A085,
+,,,,,,
+Other materials,,,,,,
+Gorilla Gel Glue,Gorilla Glue,,,,,
+4 mm Allen Key,single,10 pc key,,,,
+wrench for 3mm nuts,wrench,,,,,
+oomoo 25 silicone rubber,oomoo 25,,,,,
