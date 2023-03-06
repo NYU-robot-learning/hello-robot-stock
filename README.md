@@ -1,6 +1,9 @@
 # HelloRobot_Stock
 #### * This repository is a work in progress
 These designs were made for collecting data and running expirements with the [Hello Robot Stretch](https://hello-robot.com/product) using an iPhone as an egocentric camera. For data collection the iPhone was mounter to a manual grabber tool, and calibrated to be at the same perspective. Over time the design has been adjusted to fit the specific setup by adjusting height and setback of the clamps, so the final desgins as well as the original, non-adjusted designs will be included. If set up correctly, the non-adjusted designs will have the camera at the same position relative to the grabber tips on both the robot and the grabber stick. 
+
+## [Bill of Materials](https://docs.google.com/spreadsheets/d/1qkDV2W64Q2eQ5Y6DkTYfokI8hO4we7ong_2VNufDRaY/edit?usp=sharing) 
+
 ## Phone Holder
 ### The phone holder is taken from the [Modular Mounting System by HeyVye](https://www.thingiverse.com/thing:2194278), which is licensed under the [Creative Commons - Attribution](https://creativecommons.org/licenses/by/4.0/) license.
 
