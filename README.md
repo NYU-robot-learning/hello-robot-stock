@@ -47,6 +47,20 @@ The attachment joint/mechanism is taken from this system, but it is important to
 ![](img/grabberclamp_diagram.jpg)
 [grabberClamp_body.stl](GrabberClamp/grabberClamp_body.stl)
 
+### Part Files
+1. [Phone Holder](#phone-holder)
+2. [Attachment joint/mechanism](#attachment-jointmechanism)
+3. [Grabber Clamp Component 1](GrabberClamp/grabberClamp_top.stl)
+5. [Grabber Clamp Component Top and Bottom](GrabberClamp/grabberClamp_body.stl)
+
+### Hardware
+4. 2 x M5 10mm bolts
+6. 4 x M5 nuts
+7. 4 x M5 12mm bolts
+
+### Assembly Instructions
+1. Print necessary files. Each respective file folder contains suggested print, support, and orientation settings. 
+2. Take 
 
 ## Grabber Ends
 ## Attachment Joint/Mechanism
