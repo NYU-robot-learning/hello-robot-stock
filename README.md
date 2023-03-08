@@ -24,8 +24,8 @@ The attachment joint/mechanism is taken from this system, but it is important to
 ### Part Files
 1. [Phone Holder](#phone-holder)
 2. [Attachment joint/mechanism](#attachment-jointmechanism)
-3. Clamp Component 1: [robotClamp.stl](RobotClamp/robotClamp.stl)
-4. Clamp Component 2: [robotClamp_insert.stl](RobotClamp/robotClamp_insert.stl)
+3. Clamp Component 1: [robotClamp.stl](RobotClamp/robotClamp)
+4. Clamp Component 2: [robotClamp_insert.stl](RobotClamp/robotClamp_insert/)
 5. Clamp Component 3: [robotClamp_pad.stl](RobotClamp/robotClamp_pad.stl)
 
 ### Hardware and other items for assembly
@@ -51,7 +51,7 @@ The attachment joint/mechanism is taken from this system, but it is important to
 1. [Phone Holder](#phone-holder)
 2. [Attachment joint/mechanism](#attachment-jointmechanism)
 3. [Grabber Clamp Component 1](GrabberClamp/grabberClamp_top.stl)
-5. [Grabber Clamp Component Top and Bottom](GrabberClamp/grabberClamp_body.stl)
+5. [Grabber Clamp Component Top and Bottom](GrabberClamp/grabberClamp_body/)
 
 ### Hardware
 4. 2 x M5 10mm bolts
@@ -60,7 +60,8 @@ The attachment joint/mechanism is taken from this system, but it is important to
 
 ### Assembly Instructions
 1. Print necessary files. Each respective file folder contains suggested print, support, and orientation settings. 
-2. Take 
+2. Take the two clamp body component 2, and press them together around the clamp as shown in the diagram. 
+3. Take the 4 
 
 ## Grabber Ends
 ## Attachment Joint/Mechanism
