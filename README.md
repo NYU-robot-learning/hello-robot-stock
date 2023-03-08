@@ -41,7 +41,7 @@ The attachment joint/mechanism is taken from this system, but it is important to
 5. Insert nut into slot as shown in image
 <img src="img/insert_robotclamp.png"  width="55%">
 6. Insert screw/bolt into hole, thread through the nut that was inserted into clamp at step 5, and once the end is visible, thread the silver end pad([Robot clamp component 3](RobotClamp/robotClamp_pad.stl)) onto the end of the screw. 
-
+7. Follow the instructions in the [attachment mechanism](#attachment-jointmechanism) section to attach the phone holder. 
 
 ## Grabber Clamp
 ![](img/grabberclamp_diagram.jpg)
@@ -61,8 +61,11 @@ The attachment joint/mechanism is taken from this system, but it is important to
 ### Assembly Instructions
 1. Print necessary files. Each respective file folder contains suggested print, support, and orientation settings. 
 2. Take the two clamp body component 2, and press them together around the clamp as shown in the diagram. 
-3. Take the 4 
-
+3. Take the #7 (the 4 M5 12mm bolts) and the 4 M5 nuts and use them to attach the two peices together, do not tighten all the way down, first gett all the bolts secure with the nuts. 
+4. Once all the bolts and nuts are in place, tighten one down until you feel resistence, then do the same with the diagonal one, and repeat for the remaining two. Continue this criss cross pattern of tightening till the clamp is secure. Using this method ensures that the clamp is not tightened at an angle and the bolts are tightened evenly. 
+5. Place the grabber component 1 ([grabberClamp_top.stl](GrabberClamp/grabberClamp_top.stl)) on top of the clamp and line up the holes on the part and the clamp. 
+6. Take the two M5 10mm bolts and screw them into the top piece, and then into the clamp. The bolts will thread into the plastic and be secure. Do not remove these bolts and rescrew them because this will strip the threads created by the first time you secured the part. 
+7.  Follow the instructions in the [attachment mechanism](#attachment-jointmechanism) section to attach the phone holder. 
 ## Grabber Ends
 ## Attachment Joint/Mechanism
 ## Full Picture
