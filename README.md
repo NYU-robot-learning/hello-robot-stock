@@ -5,6 +5,10 @@ These stocks were designed for collecting data and running expirements at the Ge
 ## [Bill of Materials](https://docs.google.com/spreadsheets/d/1qkDV2W64Q2eQ5Y6DkTYfokI8hO4we7ong_2VNufDRaY/edit?usp=sharing) 
 All necessary materials and hardware for this setup is listed in the Bill of Materials.
 
+## 3D Printing and Files
+Each different stock has its own folder, within each part has its folder conatining the following parts for each file: .STEP, .STL, .gcode, and a .f3d file. 
+For the stocks, most parts are 3D printed on the (Original Prusa i3 MK3S+)[https://www.prusa3d.com/category/original-prusa-i3-mk3s/], so the gcode is for that specific printer. 
+
 ## Phone Holder
 ### The phone holder is taken from the [Modular Mounting System by HeyVye](https://www.thingiverse.com/thing:2194278), which is licensed under the [Creative Commons - Attribution](https://creativecommons.org/licenses/by/4.0/) license.
 
@@ -32,7 +36,7 @@ The attachment joint/mechanism is taken from this system, but it is important to
 ### Hardware and other items for assembly
 6. 1 x M5 20mm bolt, socket head
 7. 1 x M5 nut
-- [Gorilla Super Gel Glue](amazon.com/Gorilla-7700108-2-Pack-Super-Clear/dp/B00OAAUAX8?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&smid=ATVPDKIKX0DER&th=1)
+- [Gorilla Super Gel Glue](https://www.amazon.com/Gorilla-7700108-2-Pack-Super-Clear/dp/B00OAAUAX8?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&smid=ATVPDKIKX0DER&th=1)
 
 ### Assembly Instructions
 1. Print necessary files. Each respective file folder contains suggested print, support, and orientation settings. 
@@ -81,7 +85,7 @@ The attachment joint/mechanism is taken from this system, but it is important to
 ### Other Materials
 5. Two part silicone ([]())
 - Tape (of any kind)
-- [Gorilla Super Gel Glue](amazon.com/Gorilla-7700108-2-Pack-Super-Clear/dp/B00OAAUAX8?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&smid=ATVPDKIKX0DER&th=1)
+- [Gorilla Super Gel Glue](https://www.amazon.com/Gorilla-7700108-2-Pack-Super-Clear/dp/B00OAAUAX8?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&smid=ATVPDKIKX0DER&th=1)
 
 ### Molding Process for Silicone Tips
 1. Pre mix the silicone as instructed on the box
@@ -115,7 +119,7 @@ The attachment mechanism used is a ispired from the GoPro Mounting system, so th
 3. Insert the M5 bolt from the side that does *not* have a hexagonal indentation. 
 4. Once the bolt is all the way through, screw the M5 nut on from the other side, and tighten using a 4mm allen key, and a small wrench if needed. 
 
-### Tilt Calibration
+## Tilt Calibration
 When calibrating the tilt of the iPhones, since the attachment joint is adjustable, the app [INSERT NAME] was used. Put the stick on a surface level to the ground like in the image below and calibrate. Find a block that the robot clamp can fit on (a lot of charging blocks work) and place it on a level surface, then calibrate using the app. Then place back on robot.  
 
 ## Full Picture
