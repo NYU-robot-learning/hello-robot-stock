@@ -7,7 +7,7 @@ All necessary materials and hardware for this setup is listed in the Bill of Mat
 
 ## 3D Printing and Files
 Each different stock has its own folder, within each part has its folder conatining the following parts for each file: .STEP, .STL, .gcode, and a .f3d file. 
-For the stocks, most parts are 3D printed on the (Original Prusa i3 MK3S+)[https://www.prusa3d.com/category/original-prusa-i3-mk3s/], so the gcode is for that specific printer. 
+For the stocks, most parts are 3D printed on the [Original Prusa i3 MK3S+](https://www.prusa3d.com/category/original-prusa-i3-mk3s/), so the gcode is for that specific printer. 
 
 ## Phone Holder
 ### The phone holder is taken from the [Modular Mounting System by HeyVye](https://www.thingiverse.com/thing:2194278), which is licensed under the [Creative Commons - Attribution](https://creativecommons.org/licenses/by/4.0/) license.
