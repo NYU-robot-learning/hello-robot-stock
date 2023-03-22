@@ -42,6 +42,7 @@ The attachment joint/mechanism is taken from this system, but it is important to
 5. Insert nut into slot as shown in image
 <img src="img/insert_robotclamp.png"  width="55%">
 6. Insert screw/bolt into hole, thread through the nut that was inserted into clamp at step 5 using a 4mm allen key, and once the end is visible, thread the silver end pad([Robot clamp component 3](RobotClamp/robotClamp_pad.stl)) onto the end of the screw. 
+
 7. Follow the instructions in the [attachment mechanism](#attachment-jointmechanism) section to attach the phone holder. 
 
 ## Grabber Clamp
