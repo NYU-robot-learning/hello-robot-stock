@@ -83,7 +83,7 @@ The attachment joint/mechanism is taken from this system, but it is important to
 5. M3 Nut
 
 ### Other Materials
-5. Two part silicone ([]())
+5. Two part silicone ([Oomoo 25](https://www.amazon.com/Smooth-OOMOO-25-Curing-Silicone/dp/B01C4YQ4TU/ref=sr_1_3?keywords=oomoo+25&sr=8-3))
 - Tape (of any kind)
 - [Gorilla Super Gel Glue](https://www.amazon.com/Gorilla-7700108-2-Pack-Super-Clear/dp/B00OAAUAX8?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&smid=ATVPDKIKX0DER&th=1)
 
