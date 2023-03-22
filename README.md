@@ -47,7 +47,6 @@ The attachment joint/mechanism is taken from this system, but it is important to
 
 ## Grabber Clamp
 ![](img/grabberclamp_diagram.jpg)
-[grabberClamp_body.stl](GrabberClamp/grabberClamp_body.stl)
 
 ### Part Files
 1. [Phone Holder](#phone-holder)
