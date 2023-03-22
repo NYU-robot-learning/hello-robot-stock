@@ -70,8 +70,8 @@ The attachment joint/mechanism is taken from this system, but it is important to
 ## Grabber Ends
 
 ### Part Files
-1. (Grabber End)[GrabberEnds/grabberEnd.stl]
-2. (Grabber End Mold)[GrabberEnds/grabberEnd_mold.stl]
+1. [Grabber End](GrabberEnds/grabberEnd.stl)
+2. [Grabber End Mold](GrabberEnds/grabberEnd_mold.stl)
 
 ### Hardware
 3. M3 8mm socket head bolt
@@ -81,7 +81,7 @@ The attachment joint/mechanism is taken from this system, but it is important to
 ### Other Materials
 5. Two part silicone ([]())
 - Tape (of any kind)
-- Gorilla Super Gel Glue](amazon.com/Gorilla-7700108-2-Pack-Super-Clear/dp/B00OAAUAX8?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&smid=ATVPDKIKX0DER&th=1)
+- [Gorilla Super Gel Glue](amazon.com/Gorilla-7700108-2-Pack-Super-Clear/dp/B00OAAUAX8?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&smid=ATVPDKIKX0DER&th=1)
 
 ### Molding Process for Silicone Tips
 1. Pre mix the silicone as instructed on the box
@@ -89,8 +89,11 @@ The attachment joint/mechanism is taken from this system, but it is important to
 3. Pour the silicone in to the mold. 
 4. Let it cure for the amount of time specified on the box, and then untape the two peices and gently remove the silicone tip. 
 
+### Assembly Video
+[INSERT VIDEO]
+
 ### Assembly instructions
-1. Take the (printed red tip)[] and insert the M3 8mm bolt into the tip as shown in the video. You may have to push it all the way down with a 2mm allen key. 
+1. Take the printed red tip([Grabber End](GrabberEnds/grabberEnd.stl)) and insert the M3 8mm bolt into the tip as shown in the video. You may have to push it all the way down with a 2mm allen key. 
 2. Take the glue and line the inside of the tip with it.
 3. Press the silisone tip into the red end and press it down for at least 30 seconds. It is important to use the listed glue as it bonds to both silicone and plastic. 
 4. Remove the stock ends of the grabber hand, and attach the new end by first inserting the bolt through the hole, then putting the M3 Washer, and then screwing the M3 Bolt onto the bolt.
@@ -98,7 +101,7 @@ The attachment joint/mechanism is taken from this system, but it is important to
 6. Repeat this process for the other side. 
 
 ## Attachment Joint/Mechanism
-
+[INESRT IMG OF FULL THING]
 The attachment mechanism used is a ispired from the GoPro Mounting system, so this system wil also work with any standard GoPro mounts. 
 
 ### Hardware
@@ -107,8 +110,8 @@ The attachment mechanism used is a ispired from the GoPro Mounting system, so th
 
 ### Instructions
 1. Take the two peices you are trying to attach together (i.e. phone holder and robot clamp) and locate the attachment point as in the picture:
-!()[]
-2. These two peices slot together, and the center holes should align. Make sure that the peices are oriented correctly by referring to the (Full Assembly)[#full-picture]. 
+!()[] [INSERT IMAGE]
+2. These two peices slot together, and the center holes should align. Make sure that the peices are oriented correctly by referring to the [Full Assembly](#full-picture). 
 3. Insert the M5 bolt from the side that does *not* have a hexagonal indentation. 
 4. Once the bolt is all the way through, screw the M5 nut on from the other side, and tighten using a 4mm allen key, and a small wrench if needed. 
 
@@ -116,3 +119,4 @@ The attachment mechanism used is a ispired from the GoPro Mounting system, so th
 When calibrating the tilt of the iPhones, since the attachment joint is adjustable, the app [INSERT NAME] was used. Put the stick on a surface level to the ground like in the image below and calibrate. Find a block that the robot clamp can fit on (a lot of charging blocks work) and place it on a level surface, then calibrate using the app. Then place back on robot.  
 
 ## Full Picture
+[Insert Images of FUll Assembly]
