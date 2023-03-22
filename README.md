@@ -44,7 +44,9 @@ The attachment joint/mechanism is taken from this system, but it is important to
 3. Take the robot clamp components 1 and 2 ([robotClamp.stl](RobotClamp/robotClamp.stl) and [robotClamp_insert.stl](RobotClamp/robotClamp_insert.stl)), add super glue to the underpart of component 1 in which component 2 can be inserted into. 
 4. Press component 2 into component 1 where the glue has been applied, such that component 2 is centered and equal amounts stick out from the clamp. Hold down for at least 15 sec. (Note that the glue takes around a day to fully set)
 5. Insert nut into slot as shown in image
-<img src="img/insert_robotclamp.png"  width="55%">
+
+<center><img src="img/insert_robotclamp.png"  width="55%" ></center>
+
 6. Insert screw/bolt into hole, thread through the nut that was inserted into clamp at step 5 using a 4mm allen key, and once the end is visible, thread the silver end pad([Robot clamp component 3](RobotClamp/robotClamp_pad.stl)) onto the end of the screw. 
 
 7. Follow the instructions in the [attachment mechanism](#attachment-jointmechanism) section to attach the phone holder. 
@@ -69,9 +71,13 @@ The attachment joint/mechanism is taken from this system, but it is important to
 3. Take the #7 (the 4 M5 12mm bolts) and the 4 M5 nuts and use them to attach the two peices together with a 4mm allen key, but do not tighten all the way down, first get all the bolts secure with the nuts. 
 4. Once all the bolts and nuts are in place, tighten one down until you feel resistence, then do the same with the diagonal one, and repeat for the remaining two. Continue this criss cross pattern of tightening till the clamp is secure. Using this method ensures that the clamp is not tightened at an angle and the bolts are tightened evenly. This is important, because if the clamp is attached at an angle, the camera view may also be tilted.
 5. Place the grabber component 1 ([grabberClamp_top.stl](GrabberClamp/grabberClamp_top.stl)) on top of the clamp and line up the holes on the part and the clamp. The back of component 1 should align with the back of the clamp. There should be none of the top of the component 2 visible. 
+
+<center><img src="img/grabberclamp_incorrect.jpg"  width="20%" ><img src="img/grabberclampcorrect.jpg"  width="21.4%"></center>
+
 6. Take the two M5 10mm bolts and screw them into the top piece with a 4mm allen key, and then into the clamp. The bolts will thread into the plastic and be secure. Do not remove these bolts and rescrew them because this will strip the threads created by the first time you secured the part. 
 7.  Follow the instructions in the [attachment mechanism](#attachment-jointmechanism) section to attach the phone holder. 
 ## Grabber Ends
+<center><img src="img/grabberEnds_diagram.jpg"  width="70%" ></center>
 
 ### Part Files
 1. [Grabber End](GrabberEnds/grabberEnd.stl)
@@ -94,7 +100,7 @@ The attachment joint/mechanism is taken from this system, but it is important to
 4. Let it cure for the amount of time specified on the box, and then untape the two peices and gently remove the silicone tip. 
 
 ### Assembly Video
-[INSERT VIDEO]
+
 
 ### Assembly instructions
 1. Take the printed red tip([Grabber End](GrabberEnds/grabberEnd.stl)) and insert the M3 8mm bolt into the tip as shown in the video. You may have to push it all the way down with a 2mm allen key. 
@@ -114,7 +120,9 @@ The attachment mechanism used is a ispired from the GoPro Mounting system, so th
 
 ### Instructions
 1. Take the two peices you are trying to attach together (i.e. phone holder and robot clamp) and locate the attachment point as in the picture:
-!()[] [INSERT IMAGE]
+
+<center><img src="img/attachment.png"  width="20%" ></center>
+
 2. These two peices slot together, and the center holes should align. Make sure that the peices are oriented correctly by referring to the [Full Assembly](#full-picture). 
 3. Insert the M5 bolt from the side that does *not* have a hexagonal indentation. 
 4. Once the bolt is all the way through, screw the M5 nut on from the other side, and tighten using a 4mm allen key, and a small wrench if needed. 
