@@ -67,7 +67,7 @@ The attachment joint/mechanism is taken from this system, but it is important to
 
 ### Assembly Instructions
 1. Print necessary files. Each respective file folder contains suggested print, support, and orientation settings. 
-2. Take the two clamp body component 2, and press them together around the clamp as shown in the diagram, making sure the holes align. 
+2. Take the two clamp body component 2, and press them together around the clamp as shown in the diagram, making sure the holes align. The holes oriented such that they are closer to the tips than where you hold the stick.
 3. Take the #7 (the 4 M5 12mm bolts) and the 4 M5 nuts and use them to attach the two peices together with a 4mm allen key, but do not tighten all the way down, first get all the bolts secure with the nuts. 
 4. Once all the bolts and nuts are in place, tighten one down until you feel resistence, then do the same with the diagonal one, and repeat for the remaining two. Continue this criss cross pattern of tightening till the clamp is secure. Using this method ensures that the clamp is not tightened at an angle and the bolts are tightened evenly. This is important, because if the clamp is attached at an angle, the camera view may also be tilted.
 5. Place the grabber component 1 ([grabberClamp_top.stl](GrabberClamp/grabberClamp_top.stl)) on top of the clamp and line up the holes on the part and the clamp. The back of component 1 should align with the back of the clamp. There should be none of the top of the component 2 visible. 
