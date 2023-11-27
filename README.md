@@ -1,6 +1,6 @@
 # Stick Stocks
 
-**Special thanks to Anya Zorin and Jyo Pari for their help in designing and testing these stocks.**
+**Special thanks to [Anya Zorin](https://www.linkedin.com/in/anya-zorin/) and [Jyo Pari](https://jyopari.github.io/) for their help in designing and testing these stocks.**
 
 ## Full Picture
 ### Stick
@@ -109,7 +109,7 @@ The attachment joint/mechanism is taken from this system, but it is important to
 4. Let it cure for the amount of time specified on the box, and then untape the two peices and gently remove the silicone tip. 
 
 ### Assembly Video
-
+(Coming soon.)
 
 ### Assembly instructions
 1. Take the printed red tip ([Grabber End](GrabberEnds/grabberEnd.stl)) and insert the M3 8mm bolt into the tip as shown in the video. You may have to push it all the way down with a 2mm allen key. 
@@ -120,15 +120,14 @@ The attachment joint/mechanism is taken from this system, but it is important to
 6. Repeat this process for the other side. 
 
 ## Attachment Joint/Mechanism
-[INESRT IMG OF FULL THING]
-The attachment mechanism used is a ispired from the GoPro Mounting system, so this system wil also work with any standard GoPro mounts. 
+The attachment mechanism used is inspired from the GoPro Mounting system, so this system wil also work with any standard GoPro mounts.
 
 ### Hardware
 1. M5 20mm socket head
 2. M5 Nut
 
 ### Instructions
-1. Take the two peices you are trying to attach together (i.e. phone holder and robot clamp) and locate the attachment point as in the picture:
+1. Take the two pieces you are trying to attach together (i.e. phone holder and robot clamp) and locate the attachment point as in the picture:
 
 <center><img src="img/attachment.png"  width="20%" ></center>
 
@@ -137,4 +136,4 @@ The attachment mechanism used is a ispired from the GoPro Mounting system, so th
 4. Once the bolt is all the way through, screw the M5 nut on from the other side, and tighten using a 4mm allen key, and a small wrench if needed. 
 
 ## Tilt Calibration
-When calibrating the tilt of the iPhones, since the attachment joint is adjustable, the app [INSERT NAME] was used. Put the stick on a surface level to the ground like in the image below and calibrate. Find a block that the robot clamp can fit on (a lot of charging blocks work) and place it on a level surface, then calibrate using the app. Then place back on robot.  
+When calibrating the tilt of the iPhones, since the attachment joint is adjustable, the app [Precise Level: Spirit Level](https://apps.apple.com/us/app/precise-level-spirit-level/id1093293519) was used. Put the stick on a surface level to the ground like in the image below and calibrate. Find a block that the robot clamp can fit on (a lot of charging blocks work) and place it on a level surface, then calibrate using the app. Then place back on robot.  
