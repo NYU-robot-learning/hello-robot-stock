@@ -1,6 +1,15 @@
-# HelloRobot_Stock
-#### * This repository is a work in progress
-These stocks were designed for collecting data and running expirements at the Generalized Robotics and AI Lab at NYU using the [Hello Robot Stretch](https://hello-robot.com/product) with an iPhone as an egocentric camera. For data collection the iPhone was mounter to a manual [grabber tool](https://www.amazon.com/Vive-Suction-Reacher-Grabber-Pack/dp/B07GFL168C/ref=sr_1_7?keywords=grabber+tool+suction+cups&sr=8-7), and calibrated to be at the same perspective as the iPhone on the robot. Over time the design has been adjusted to fit the specific setup by adjusting height and setback of the clamps so that the two views are properly aligned, with the tips of the gradder arm as points of reference.
+# Stick Stocks
+
+**Special thanks to Anya Zorin and Jyo Pari for their help in designing and testing these stocks.**
+
+## Full Picture
+### Stick
+<center><img src="img/stick.png" width="70%" ></center>
+
+### Robot gripper
+<center><img src="img/robot.png" width="70%" ></center>
+
+These stocks were designed for collecting data and running expirements at the [NYU Generalized Robotics and AI Lab](https://lerrelpinto.com) using the [Hello Robot Stretch](https://hello-robot.com/product) with an iPhone as an egocentric camera. For data collection the iPhone was mounter to a manual [grabber tool](https://www.amazon.com/Vive-Suction-Reacher-Grabber-Pack/dp/B07GFL168C/ref=sr_1_7?keywords=grabber+tool+suction+cups&sr=8-7), and calibrated to be at the same perspective as the iPhone on the robot. Over time the design has been adjusted to fit the specific setup by adjusting height and setback of the clamps so that the two views are properly aligned, with the tips of the gradder arm as points of reference.
 
 ## [Bill of Materials](https://docs.google.com/spreadsheets/d/1qkDV2W64Q2eQ5Y6DkTYfokI8hO4we7ong_2VNufDRaY/edit?usp=sharing) 
 All necessary materials and hardware for this setup is listed in the Bill of Materials.
@@ -103,7 +112,7 @@ The attachment joint/mechanism is taken from this system, but it is important to
 
 
 ### Assembly instructions
-1. Take the printed red tip([Grabber End](GrabberEnds/grabberEnd.stl)) and insert the M3 8mm bolt into the tip as shown in the video. You may have to push it all the way down with a 2mm allen key. 
+1. Take the printed red tip ([Grabber End](GrabberEnds/grabberEnd.stl)) and insert the M3 8mm bolt into the tip as shown in the video. You may have to push it all the way down with a 2mm allen key. 
 2. Take the glue and line the inside of the tip with it.
 3. Press the silisone tip into the red end and press it down for at least 30 seconds. It is important to use the listed glue as it bonds to both silicone and plastic. 
 4. Remove the stock ends of the grabber hand, and attach the new end by first inserting the bolt through the hole, then putting the M3 Washer, and then screwing the M3 Bolt onto the bolt.
@@ -129,6 +138,3 @@ The attachment mechanism used is a ispired from the GoPro Mounting system, so th
 
 ## Tilt Calibration
 When calibrating the tilt of the iPhones, since the attachment joint is adjustable, the app [INSERT NAME] was used. Put the stick on a surface level to the ground like in the image below and calibrate. Find a block that the robot clamp can fit on (a lot of charging blocks work) and place it on a level surface, then calibrate using the app. Then place back on robot.  
-
-## Full Picture
-[Insert Images of FUll Assembly]
